@@ -1,4 +1,4 @@
-module dd-host-mute
+module github.com/hkrutzer/dd-mute-host
 
 go 1.23.4
 
